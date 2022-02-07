@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/works/team/create", {data:[{},{}],fetch:{},mutations:[]});
